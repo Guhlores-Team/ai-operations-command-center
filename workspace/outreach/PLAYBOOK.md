@@ -27,6 +27,11 @@ session can pick up where the last one stopped.
 - After deploying, confirm the link returns 200 without a login before it goes in an email.
 
 ## Sending rules
+- **The Gmail connector rewrites every link.** Any URL in a draft or message it creates is stored as a
+  `google.com/url?q=...` redirect that opens a Google "Redirect Notice" page instead of the demo
+  (verified 2026-11-21, plain text and HTML alike). Never put a link in a connector-created draft.
+  Leave the `>>> PASTE ... LINK HERE <<<` marker; the owner pastes the clean link in Gmail and uses
+  Gmail's own Schedule send. Sign-off: Stephen / JC Digitalized | Easy Simple Sites / postal address.
 - Drafts first. Nothing is sent without the owner's approval of that specific email.
 - Plain text, one link, accurate subject line, no attachments, no tracking pixels.
 - Every email ends with the sender's name, business name, a valid postal address and a

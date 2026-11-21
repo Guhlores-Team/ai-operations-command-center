@@ -13,7 +13,7 @@ It's a concept only, unlisted, and nothing on it is final. If it's useful, I can
 
 Best,
 Stephen
-Easy Simple Sites · easysimplesites.org
-{{MAILING_ADDRESS}}
+JC Digitalized | Easy Simple Sites
+12 Dahlia Ave, Peabody, MA 01960
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.

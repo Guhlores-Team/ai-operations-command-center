@@ -13,7 +13,7 @@ If you'd like it finished into a real site, I'd be glad to do that. Open to a sh
 
 Thank you,
 Stephen
-Easy Simple Sites · easysimplesites.org
-{{MAILING_ADDRESS}}
+JC Digitalized | Easy Simple Sites
+12 Dahlia Ave, Peabody, MA 01960
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.

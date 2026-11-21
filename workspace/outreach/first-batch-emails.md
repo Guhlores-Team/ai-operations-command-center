@@ -1,6 +1,6 @@
 # First batch - emails for approval
 
-Nothing here has been sent or placed in Gmail yet. `{{MAILING_ADDRESS}}` is the one open field (required by CAN-SPAM).
+These are in Gmail Drafts with a PASTE marker where the link goes (the Gmail connector rewrites links, see PLAYBOOK.md). The text below is the final wording with the clean link.
 
 ## am-home-services
 
@@ -20,8 +20,8 @@ If you'd like it finished into a real site, I'd be glad to do that. Open to a sh
 
 Thank you,
 Stephen
-Easy Simple Sites · easysimplesites.org
-{{MAILING_ADDRESS}}
+JC Digitalized | Easy Simple Sites
+12 Dahlia Ave, Peabody, MA 01960
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.
 ```
@@ -44,8 +44,8 @@ It's unlisted (only people with the link can open it) and everything on it can c
 
 Sincerely,
 Stephen
-Easy Simple Sites · easysimplesites.org
-{{MAILING_ADDRESS}}
+JC Digitalized | Easy Simple Sites
+12 Dahlia Ave, Peabody, MA 01960
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.
 ```
@@ -68,8 +68,8 @@ It's a concept only, unlisted, and nothing on it is final. If it's useful, I can
 
 Best,
 Stephen
-Easy Simple Sites · easysimplesites.org
-{{MAILING_ADDRESS}}
+JC Digitalized | Easy Simple Sites
+12 Dahlia Ave, Peabody, MA 01960
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.
 ```
@@ -92,8 +92,8 @@ If you'd like, I can turn it into a finished site for the business. Would you be
 
 Thanks,
 Stephen
-Easy Simple Sites · easysimplesites.org
-{{MAILING_ADDRESS}}
+JC Digitalized | Easy Simple Sites
+12 Dahlia Ave, Peabody, MA 01960
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.
 ```
@@ -116,8 +116,8 @@ It's an unlisted concept, not a published site, and the copy is placeholder. Wit
 
 Regards,
 Stephen
-Easy Simple Sites · easysimplesites.org
-{{MAILING_ADDRESS}}
+JC Digitalized | Easy Simple Sites
+12 Dahlia Ave, Peabody, MA 01960
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.
 ```
