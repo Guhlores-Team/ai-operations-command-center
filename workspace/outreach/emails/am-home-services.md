@@ -12,8 +12,8 @@ It groups your services by season (landscape, hardscape and maintenance; excavat
 If you'd like it finished into a real site, I'd be glad to do that. Open to a short call or email exchange about it?
 
 Thank you,
-{{SENDER_NAME}}
-{{BUSINESS_NAME}}
+Stephen
+Easy Simple Sites · easysimplesites.org
 {{MAILING_ADDRESS}}
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.

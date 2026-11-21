@@ -12,8 +12,8 @@ https://site-concept-previews.vercel.app/crystal-trail-cleaning
 It's unlisted (only people with the link can open it) and everything on it can change. If you like the direction, I can turn it into a complete site for the business. Would you be interested in discussing it?
 
 Sincerely,
-{{SENDER_NAME}}
-{{BUSINESS_NAME}}
+Stephen
+Easy Simple Sites · easysimplesites.org
 {{MAILING_ADDRESS}}
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.

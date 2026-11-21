@@ -12,8 +12,8 @@ https://site-concept-previews.vercel.app/vine-painting
 It's an unlisted concept, not a published site, and the copy is placeholder. With photos of your real projects it could become the full thing. Would you want to take a look and tell me what you think?
 
 Regards,
-{{SENDER_NAME}}
-{{BUSINESS_NAME}}
+Stephen
+Easy Simple Sites · easysimplesites.org
 {{MAILING_ADDRESS}}
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.

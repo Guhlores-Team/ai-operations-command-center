@@ -12,8 +12,8 @@ It's built around the dishes in your listing (puff-puff, jollof rice, fried rice
 If you'd like, I can turn it into a finished site for the business. Would you be open to a quick conversation about it?
 
 Thanks,
-{{SENDER_NAME}}
-{{BUSINESS_NAME}}
+Stephen
+Easy Simple Sites · easysimplesites.org
 {{MAILING_ADDRESS}}
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.

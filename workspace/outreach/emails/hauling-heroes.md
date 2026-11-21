@@ -12,8 +12,8 @@ https://site-concept-previews.vercel.app/hauling-heroes
 It's a concept only, unlisted, and nothing on it is final. If it's useful, I can build it out into a real site with your own photos and details. Interested in talking it through?
 
 Best,
-{{SENDER_NAME}}
-{{BUSINESS_NAME}}
+Stephen
+Easy Simple Sites · easysimplesites.org
 {{MAILING_ADDRESS}}
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't follow up.
